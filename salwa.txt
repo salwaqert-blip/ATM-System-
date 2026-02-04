@@ -1,0 +1,3 @@
+Name: salwa   AccountNumber: 123456789   Pin: 2323w#E   Address: EL Fayoum   Email: salwa@gmail.com   PhoneNumber: 01142500349    Balance: 122434.000000
+Name: salwa   AccountNumber: 2353454   Pin: 234er#W   Address: erterl\   Email: sdas@gmail.com   PhoneNumber: 4985098094386    Balance: 324   
+Name: Nora   AccountNumber: 988766654   Pin: 232wswdw#E   Address: El Fayoum   Email: Nora@gmail.com   PhoneNumber: 01142500349    Balance: 2.32423e+06   
